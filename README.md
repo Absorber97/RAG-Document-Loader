@@ -2,6 +2,9 @@
 
 This project provides modular document loaders for different types of content (PDF, YouTube, and URLs) using LangChain. It supports both direct input and source file-based loading.
 
+Step 1 (This Project): https://github.com/Absorber97/RAG-Document-Loader
+Step 2: https://github.com/Absorber97/Vectorstores-Embedding
+
 ## Features
 
 - PDF document loading and parsing with metadata extraction
