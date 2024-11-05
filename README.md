@@ -23,7 +23,7 @@ This project provides modular document loaders for different types of content (P
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Absorber97/RAG-Document-Loader
    cd document-loader-project
    ```
 
