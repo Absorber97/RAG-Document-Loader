@@ -4,6 +4,7 @@ This project provides modular document loaders for different types of content (P
 
 - Step 1 (This Project): https://github.com/Absorber97/RAG-Document-Loader
 - Step 2: https://github.com/Absorber97/Vectorstores-Embedding
+- Step 3: https://github.com/Absorber97/RAG-Chat-System
 
 ## Features
 
